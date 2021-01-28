@@ -5,3 +5,4 @@ file named project 1 have basic ml models  for classification while project 2 co
 pca dimension reduction method is implimented in projecct 2
 only neral network models is implimented for deep learning
 results of all models are commpared at last in table format
+
